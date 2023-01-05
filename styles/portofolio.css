@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+}
+.about-info-title{
+    font-size: 20px;
+    color: wheat;
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+
+.nav-title {
+    font-weight: 800;
+    font-size: 45px;
+}
+
+.text-primary {
+    color: orange;
+}
+
+.button-primary {
+    background-color: orange;
+    border: 0px;
+    padding: 18px 35px;
+    height: 64px;
+    border-radius: 5px;
+    background-color: orange;
+    font-weight: 700;
+    font size: 20px;
+}
+
+.banner {
+    display: flex;
+    margin: 0px 200px;
+    list-style: none;
+}
+.banner-title{
+    font-weight: 700;
+    font-size: 85px;
+
+}
+.banner-sub-title{
+
+    font-weight: 600;
+    font-size: 45px;
+}
+.header{
+    background-color: beige;
+    image-orientation: flip;
+    background-image: url(../images/flower.jpg.jpg),url(../images/developer.png.png);
+    background-repeat: no-repeat;
+    background-position: bottom right, left bottom;
+
+}
+.banner-description{
+    color: blueviolet;
+    font-size: 18px;
+    max-resolution: 30px
+    ;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 200px;
+}
+
+nav li {
+    list-style: none;
+    margin-left: 50px;
+}
+
+nav ul {
+    display: flex;
+}
+.about{
+    margin-top: 130px;
+    background: khaki;
+    border-radius: 10px;
+    padding: 130px,150px;
+
+}
+.section-title{
+    text-align: center;
+    font-weight: 700px;
+    font-size: 35px;
+    margin-bottom: 30px;
+
+}
+.section-description{
+    color: fuchsia;
+    font-size: 18px;
+    margin-bottom: 30px;
+
+}
+.info-description{
+    display: flex;
+  
+}
