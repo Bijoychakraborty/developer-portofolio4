@@ -81,6 +81,10 @@ nav ul {
     padding: 20s0px,100px;
 
 }
+
+.resume-content{
+    display: flex;
+}
 .resume{
     margin-top: 130px;
     text-align: center;
