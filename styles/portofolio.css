@@ -75,11 +75,20 @@ nav ul {
     display: flex;
 }
 .about{
-    margin-top: 130px;
+    margin-top: 100px;
     background: khaki;
-    border-radius: 10px;
-    padding: 130px,150px;
+    border-radius: 50px;
+    padding: 20s0px,100px;
 
+}
+.resume{
+    margin-top: 130px;
+    text-align: center;
+    font-weight: 600px;
+    font size: 20px;
+}
+.what-i-do{
+    margin-top: 130px;
 }
 .section-title{
     text-align: center;
@@ -97,4 +106,19 @@ nav ul {
 .info-description{
     display: flex;
   
+}
+.skills-container{
+    display: flex;
+    gap: 24px;
+}
+.skill-title{
+    font-weight: 700;
+    font-size: 20px;
+}
+.skill-description{
+    color: gray;
+}
+main{
+    max-width: 1140px;
+    margin: 0 auto;
 }
